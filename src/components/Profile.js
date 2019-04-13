@@ -47,6 +47,10 @@ class Profile extends Component{
                     <div className="profile-entry-right">{pts}</div>
                 </div>
                 <div className="profile-entry">
+                    <div className="profile-entry-left">REB</div>
+                    <div className="profile-entry-right">{reb}</div>
+                </div>
+                <div className="profile-entry">
                     <div className="profile-entry-left">AST</div>
                     <div className="profile-entry-right">{ast}</div>
                 </div>
