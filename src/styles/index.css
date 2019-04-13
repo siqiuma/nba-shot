@@ -13,7 +13,11 @@ code {
     monospace;
 }
 
+@import '~antd/dist/antd.css';
 @import 'App.css';
 @import 'TopNavBar.css';
 @import 'Main.css';
 @import 'Profile.css';
+@import 'ShotChart.css';
+@import 'DataViewContainer.css';
+@import 'SearchBar.css';
